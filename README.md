@@ -29,7 +29,7 @@ We didn't just make the model smaller; we made it better in almost every way tha
 
 To get a local copy of the code, clone the repository:
 ```bash
-git clone [https://github.com/your-username/CAAQ-Crop-Disease-Diagnosis.git](https://github.com/your-username/CAAQ-Crop-Disease-Diagnosis.git)
+git clone [https://github.com/Shivamrajput4u/CAAQ-Crop-Disease-Diagnosis.git](https://github.com/Shivamrajput4u/CAAQ-Crop-Disease-Diagnosis.git)
 cd CAAQ-Crop-Disease-Diagnosis
 ```
 
@@ -75,7 +75,7 @@ We're passionate about open science! If you use our code or ideas in your resear
   title     = {Context-Aware Adaptive Quantization for Multi-Crop Disease Diagnosis: An Extension of Similarity-Preserving Quantization},
   author    = {Kumar Shivam and Co-author 1}
   year      = {2025},
-  month     = {June}
+  month     = {August}
 }
 ```
 
