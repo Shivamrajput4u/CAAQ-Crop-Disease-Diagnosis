@@ -73,7 +73,7 @@ We're passionate about open science! If you use our code or ideas in your resear
 ```bibtex
 @inproceedings{shivam2025caaq,
   title     = {Context-Aware Adaptive Quantization for Multi-Crop Disease Diagnosis: An Extension of Similarity-Preserving Quantization},
-  author    = {Kumar Shivam and Co-author 1}
+  author    = {Kumar Shivam}
   year      = {2025},
   month     = {August}
 }
