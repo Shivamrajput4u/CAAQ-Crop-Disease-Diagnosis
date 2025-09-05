@@ -71,11 +71,14 @@ Here’s a quick look at the numbers. We compared our final, compact CAAQ model 
 
 We're passionate about open science! If you use our code or ideas in your research, we'd be grateful if you'd cite our paper.
 ```bibtex
-@inproceedings{shivam2025caaq,
-  title     = {Context-Aware Adaptive Quantization for Multi-Crop Disease Diagnosis: An Extension of Similarity-Preserving Quantization},
-  author    = {Kumar Shivam}
-  year      = {2025},
-  month     = {August}
+@misc{shivam2025caaq,
+  author       = {Kumar Shivam},
+  title        = {Context-Aware Adaptive Quantization for Multi-Crop Disease Diagnosis: An Extension of Similarity-Preserving Quantization},
+  year         = {2025},
+  publisher    = {GitHub},
+  journal      = {GitHub repository},
+  howpublished = {\url{https://github.com/Shivamrajput4u/CAAQ-Crop-Disease-Diagnosis}},
+  url          = {https://github.com/Shivamrajput4u/CAAQ-Crop-Disease-Diagnosis}
 }
 ```
 
